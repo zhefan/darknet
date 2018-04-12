@@ -16,15 +16,16 @@ convnet/
 decaf/
 submission/
 cfg/
+backup/
 darknet
 .fuse*
+*.swp
+*.a
+*.so
+*~
 
 # OS Generated #
 .DS_Store*
 ehthumbs.db
 Icon?
 Thumbs.db
-*.swp
-*.a
-*.so
-*~
